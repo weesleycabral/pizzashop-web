@@ -25,7 +25,7 @@ export function OrderTableFilters() {
           <SelectItem value="canceled">Cancelado</SelectItem>
           <SelectItem value="processing">Em preparo</SelectItem>
           <SelectItem value="delivering">Entrega</SelectItem>
-          <SelectItem value="delviered">Entregue</SelectItem>
+          <SelectItem value="delivered">Entregue</SelectItem>
         </SelectContent>
       </Select>
 
